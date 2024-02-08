@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: step_definition.RunCukesTest
+-------------------------------------------------------------------------------
+Tests run: 49, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 107.1 s -- in step_definition.RunCukesTest
